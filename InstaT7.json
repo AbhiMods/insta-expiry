@@ -1,8 +1,10 @@
 { 
    "force_update":false,
-   "version":7.1,
+   "version":5.5,
    "changelog":"
    \n[Base] 208.0.0.32.135!
    \n[Added] Download Settings!
+   \n[Added] Reels video Download!
+    \n Updated By TheAbhishek
    \n[Fixed] Many other fixes and improvements!"
 }
