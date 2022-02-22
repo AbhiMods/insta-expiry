@@ -1,5 +1,1 @@
-{
-	"version": "14.2",
-	"changelog": "— Added payment link for verification;\n— Fixed application crash due to notifications;\n— Fixed crash on entering Direct;\n— Fixed when switching to the first photo in profile;\n— Fixed pin icon in comments.",
-	"link": "https://sagri12345.github.io/project/Instander_mod_v14.2.apk"
-}
+Hiii
