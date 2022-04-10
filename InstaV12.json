@@ -1,1 +1,8 @@
-#dem
+{ 
+   "force_update":false,
+   "version":12.1,
+   "changelog":"
+   \n[Base] 227.0.0.19.135!
+   \n[Added] Download Settings!
+   \n[Fixed] Many other fixes and improvements!"
+}
