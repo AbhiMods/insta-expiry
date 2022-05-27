@@ -1,4 +1,20 @@
 { 
-New update
+   "force_update":false,
+   "version":11,
+   "changelog":"
+\n[Base] 232.0.0.16.144
+\n[Added] Story Extended 15 SEC to 60 SEC
+\n[Added] Font Styles
+\n[Added] Msg Translations
+\n[Added] Chats Lock
+\n[ReAdded] Multiple Logo
+\n[Fixed] Ads Almost Removed
+\n[Fixed] Live Ghost Mod
+\n[Fixed] Many Random Crash
+\n[Fixed] Android 12 Supported
+\n[Exclusive] Added Themes
+\n[Improve] Quality Improved Post
+\n[Fixed] Many More fixes and improvements
+\n[Updates] Rollout BY The Abhishek"
 }
 
